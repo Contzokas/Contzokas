@@ -108,7 +108,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=radical&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=react&color=gradient&height=100&section=footer"/>
   
   <p>Thanks for visiting my profile! Have a great day! 😄</p>
   
