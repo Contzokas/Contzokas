@@ -46,7 +46,7 @@
 <br>
 
 ### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,css,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,php,wordpress,nextjs,tailwind" />
 
 <br>
 
@@ -56,7 +56,12 @@
 <br>
 
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,figma,raspberrypi,stackoverflow,vercel,azure" />
+
+<br>
+
+### ⚙️ Used OS
+<img src="https://skillicons.dev/icons?i=windows,ubuntu" />
 
 </div>
 
