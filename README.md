@@ -26,8 +26,7 @@
   
 ### 🤝 Connect with me:
   
-<a href="mailto:contzokas@proton.me"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://www.linkedin.com/in/constantinos-tzokas"><img src="https://skillicons.dev/icons?i=linkedin" /></a><a href="https://www.linkedin.com/in/constantinos-tzokas/"> <a href="www.contzokas.vercel.app"><img src="https://skillicons.dev/icons?i=htmx" /></a> <a href="www.github.com/contzokas"><img src="https://skillicons.dev/icons?i=github" /></a>
-
+<a href="mailto:contzokas@proton.me"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://www.linkedin.com/in/constantinos-tzokas"><img src="https://skillicons.dev/icons?i=linkedin" /></a><a href="https://www.linkedin.com/in/constantinos-tzokas/"> <a href="https://contzokas.vercel.app/"><img src="https://skillicons.dev/icons?i=htmx" /></a> <a href="https://www.github.com/contzokas"><img src="https://skillicons.dev/icons?i=github" /></a>
 </div>
 
 <br>
