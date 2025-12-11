@@ -76,12 +76,6 @@
   
   <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=contzokas&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width="48%" height="150%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=contzokas&count_private=true&theme=radical&border_radius=10" alt="streak stats" />
-  
-  <br><br>
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contzokas&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  
-  <br><br>
 
 </div>
 
