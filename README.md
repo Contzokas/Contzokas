@@ -12,11 +12,11 @@
 <div align="center">
   
   🔭 I'm currently working on **building my programming skills**  
-  🌱 I'm currently learning **Python and Web Development**  
+  🌱 I'm currently learning **Python and AI Development**  
   📚 Studying **Computer Science**  
   💡 Interested in **Open Source contributions**  
   ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**  
-  🎯 Goal: **Becoming a full-stack developer**
+  🎯 Goal: **Becoming an AI developer**
 
 </div>
 
