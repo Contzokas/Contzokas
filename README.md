@@ -7,10 +7,6 @@
 
 <h3 align="center">🚀 Aspiring Software Developer from Greece 🇬🇷</h3>
 
-<div align="center">
-  <img src="assets/ascii-photo-v2.svg" alt="ASCII art portrait of Constantinos Tzokas" width="340" />
-</div>
-
 <br>
 
 <div align="center">
