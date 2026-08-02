@@ -26,7 +26,7 @@
 
 ### 🤝 Connect with me:
 
-<a href="mailto:contzokas@proton.me"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://www.linkedin.com/in/constantinos-tzokas"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://contzokas.xyz/"><img src="https://skillicons.dev/icons?i=htmx" /></a> <a href="https://www.github.com/contzokas"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:contzokas@proton.me"><img src="https://skillicons.dev/icons?i=protonmail" /></a> <a href="https://www.linkedin.com/in/constantinos-tzokas"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://contzokas.xyz/"><img src="https://skillicons.dev/icons?i=htmx" /></a> <a href="https://www.github.com/contzokas"><img src="https://skillicons.dev/icons?i=github" /></a>
 
 </div>
 
@@ -84,18 +84,6 @@
   <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=contzokas&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=contzokas&count_private=true&theme=radical&border_radius=10" alt="streak stats" />
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=contzokas&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
-</div>
-
-<br>
-
-<hr>
-
-<h2 align="center">🏆 Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=contzokas&theme=radical&no-frame=true&margin-w=5&column=4" width="60%" alt="trophies" />
 
 </div>
 
